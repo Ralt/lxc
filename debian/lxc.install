@@ -1,0 +1,15 @@
+etc
+lib/systemd/system/lxc-net.service
+lib/systemd/system/lxc.service
+usr/bin
+usr/lib/*/lxc/lxc-*
+usr/sbin/*
+usr/share/doc
+usr/share/lxc/config
+usr/share/lxc/hooks
+usr/share/lxc/selinux
+usr/share/lxc/lxc.functions
+usr/share/lxc/lxc-restore-net
+usr/share/man
+var/cache/lxc
+var/lib/lxc
